@@ -2,7 +2,9 @@
 
 I'm software engineer/geophysical engineer from Venezuela / Chile.
 
-👥 Core member on [buk](https://github.com/bukhr)
+:books: My first sofware house [AvispaTech](https://github.com/avispatech)
+
+:punch: Core member on [Buk](https://github.com/bukhr)
 
 :floppy_disk: 70% back-end
 
