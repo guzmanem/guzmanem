@@ -4,7 +4,7 @@ I'm software engineer/geophysical engineer from Venezuela / Chile.
 
 :books: My first sofware house [AvispaTech](https://github.com/avispatech)
 
-:punch: Core member on [Buk](https://github.com/bukhr)
+:punch: Remunerations team member on [Buk](https://github.com/bukhr)
 
 :floppy_disk: 70% back-end
 
@@ -86,6 +86,8 @@ I'm software engineer/geophysical engineer from Venezuela / Chile.
 <div style='display: d-flex-inline'>
   <img src="https://user-images.githubusercontent.com/47183702/150651558-f99ba34a-7abb-4ecd-b8fb-c4ce166aa16e.svg" width="40" height="40">
   <img src="https://user-images.githubusercontent.com/47183702/150651557-2067adab-89fb-48e2-b6d4-cfa48bde2f63.svg" width="40" height="40">
+  <img src="https://user-images.githubusercontent.com/47183702/150658618-7f9c6d03-a0e0-4a92-a45e-2aa9b2b51c6f.svg" width="40" height="40">
+  <img src="https://user-images.githubusercontent.com/47183702/150658620-fe48647d-fe95-4a23-9149-4ebc3fc34636.svg" width="40" height="40">
 </div>
 
 
