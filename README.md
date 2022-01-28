@@ -6,7 +6,7 @@ I'm software engineer/geophysical engineer from Venezuela / Chile.
 
 :punch: Remunerations team member on [Buk](https://github.com/bukhr)
 
-:floppy_disk: 70% back-end
+:computer: 70% back-end
 
 :art: 20% front-end
 
