@@ -12,7 +12,6 @@ I'm software engineer/geophysical engineer from Venezuela / Chile.
 
 :iphone: 10% mobile
 
-
 ## Social
 
 <a href='https://www.linkedin.com/in/edgarguzmanblanco/'>
