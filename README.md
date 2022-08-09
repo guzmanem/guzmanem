@@ -4,7 +4,7 @@ I'm software engineer/geophysical engineer from Venezuela / Chile.
 
 :books: My first sofware house [AvispaTech](https://github.com/avispatech)
 
-:punch: Remunerations team member on [Buk](https://github.com/bukhr)
+:punch: HCMCL team member on [Buk](https://github.com/bukhr)
 
 :computer: 70% back-end
 
