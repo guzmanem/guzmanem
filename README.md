@@ -17,9 +17,6 @@ I'm software engineer/geophysical engineer from Venezuela / Chile.
 <a href='https://www.linkedin.com/in/edgarguzmanblanco/'>
   <img src="https://user-images.githubusercontent.com/47183702/150648263-dc6a01f5-4642-4c37-8c39-8c45f17b08a1.svg" width="40" height="40">
 </a>
-<a href='https://stackoverflow.com/users/18003794/edgar-guzm%c3%a1n'>
-  <img src="https://user-images.githubusercontent.com/47183702/150648597-84ba7b11-ab6f-4e61-bcee-432e6a79bf07.svg" width="40" height="40">
-</a>
 <a href='https://medium.com/@guzmanem'>
   <img src="https://user-images.githubusercontent.com/47183702/150648785-e2ebf5f9-bc99-44b4-ad42-f2a2613cc2bd.svg" width="40" height="40">
 </a>
