@@ -15,7 +15,7 @@ I'm software engineer/geophysical engineer from Venezuela / Chile.
 ## Personal Page
 
 <a href='https://edgar.cl'>
-  <img src="https://github.com/user-attachments/assets/fdb3a443-1193-4e0f-9394-136123a96d24" width="32" height="32">
+  <img src="https://github.com/user-attachments/assets/93785810-aab8-4155-8e6c-3b42ebbe283d" width="40" height="40">
 </a>
 
 ## Social
