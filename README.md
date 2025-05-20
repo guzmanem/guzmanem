@@ -12,6 +12,15 @@ I'm software engineer/geophysical engineer from Venezuela / Chile.
 
 :iphone: 10% mobile
 
+## Personal Page
+
+![favicon-32x32](https://github.com/user-attachments/assets/fdb3a443-1193-4e0f-9394-136123a96d24)
+
+<a href='https://edgar.cl'>
+  <img src="https://github.com/user-attachments/assets/fdb3a443-1193-4e0f-9394-136123a96d24" width="32" height="32">
+</a>
+
+
 ## Social
 
 <a href='https://www.linkedin.com/in/edgarguzmanblanco/'>
